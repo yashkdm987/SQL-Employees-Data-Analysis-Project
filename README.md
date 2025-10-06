@@ -12,7 +12,7 @@ SQL Employees Data Analysis Project – Created and executed SQL scripts to anal
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
-- <a href="#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a href="#key-findings">Key Findings</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#conclusion">conclusion</a>
 - <a href="#author--contact">Author & Contact</a>
@@ -33,3 +33,16 @@ GitHub
 - Writing subqueries and combining results with set operations.
 
 - Structuring a small SQL project from data load → exploratory queries → consolidated deliverable.
+
+---
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+The project uses a sample Employees dataset designed to simulate a real-world company database for SQL learning and analysis.
+The dataset is stored in the file employees Data.sql, which contains SQL scripts for creating tables and inserting sample records.
+
+**Key Tables:**
+
+- **Employees** – Employee ID, First Name, Last Name, Email, Job ID, Salary, Manager ID, Department ID
+- **Departments** – Department ID, Department Name, Location ID
+- **Jobs** – Job ID, Job Title, Minimum Salary, Maximum Salary
+- **Locations** – Location ID, City, State, Country
