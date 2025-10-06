@@ -46,3 +46,39 @@ The dataset is stored in the file employees Data.sql, which contains SQL scripts
 - **Departments** – Department ID, Department Name, Location ID
 - **Jobs** – Job ID, Job Title, Minimum Salary, Maximum Salary
 - **Locations** – Location ID, City, State, Country
+
+---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- **SQL Database Platforms:** MySQL / PostgreSQL / SQLite (depending on your setup)
+- **SQL Clients / IDEs:** MySQL Workbench, DBeaver, pgAdmin, Azure Data Studio
+- **Languages:** SQL (DDL, DML, DQL)
+- **Data Handling & Analysis:** Joins, Subqueries, CASE statements, Set Operations (UNION, INTERSECT, EXCEPT)
+
+---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+SQL-Employees-Data-Project/
+│
+├── employees Data.sql            # Script to create tables and insert sample employee data
+├── Join's Queries.sql            # SQL queries demonstrating different types of JOIN operations
+├── Advance Join's Part.sql       # Advanced JOIN scenarios and queries
+├── Subqueries, Set operation, Case.sql   # SQL queries for subqueries, set operations, and CASE statements
+├── SQL final project.sql         # Consolidated queries and final project analysis
+├── README.md                     # Project overview, dataset, tools, and instructions
+└── (Optional: ER diagram / screenshots if added)
+```
+
+---
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
+- Checked for missing or NULL values in critical columns (Employee_ID, Department_ID, Job_ID, Salary).
+
+- Verified that numeric columns (Salary, Employee_ID, Department_ID) were integers.
+
+- String columns (First_Name, Last_Name, Email) were standardized for length and format.
+
+- Confirmed no duplicate primary keys existed in main tables (Employees, Departments, Jobs)
+
