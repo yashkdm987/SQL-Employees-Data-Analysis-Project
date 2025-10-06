@@ -11,7 +11,6 @@ SQL Employees Data Analysis Project – Created and executed SQL scripts to anal
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a href="#exploratory-data-analysis-eda">Exploratory Data Analysis (EDA)</a>
 - <a href="#key-findings">Key Findings</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#conclusion">conclusion</a>
@@ -82,3 +81,16 @@ SQL-Employees-Data-Project/
 
 - Confirmed no duplicate primary keys existed in main tables (Employees, Departments, Jobs)
 
+---
+<h2><a class="anchor" id="key-findings"></a>Key Findings</h2>
+
+- `employees Data.sql` — script that appears to create and/or populate the employees sample tables.
+
+- `Join's Queries.sql` — a set of exercises/examples focused on JOIN operations.
+
+- `Advance Join's Part.sq` — more advanced join scenarios and patterns.
+
+- `Subqueries, Set operation, Case.sql` — examples of subqueries, set operations (UNION/INTERSECT/EXCEPT) and CASE expressions.
+
+- `SQL final project.sql` — a final project file that ties together queries and tasks from the other scripts.
+(These file names and their presence are taken from the repo file list.) `GitHub`
