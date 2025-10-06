@@ -107,3 +107,16 @@ git clone https://github.com/yashkdm987/SQL-Employees-Data-Analysis-Project.git
 3. Run `employees Data.sql` first to create tables and load sample data.
 
 4. Run the other `.sql` files in a logical order (JOINs → advanced joins → subqueries & set ops → final project) to see queries execute and inspect results.
+
+---
+<h2><a class="anchor" id="conclusion"></a>conclusion</h2>
+
+**This project strengthened SQL skills through real-world data analysis on an employee dataset. It covered key concepts like joins, subqueries, set operations, and CASE statements to extract meaningful insights. The project lays a strong foundation for advanced analytics and database management.**
+
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Yash Kadam**  
+Data Analyst  
+📧 Email: yashkadam3000@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-kadam-ba2688211/)
