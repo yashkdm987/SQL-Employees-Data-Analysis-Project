@@ -26,9 +26,9 @@ GitHub
 ---
 <h2><a class="anchor" id="project-learning"></a>project-learning</h2>
 
-- Designing and running multi-table -`SELECT` queries using -`JOIN` types.
+- Designing and running multi-table - `SELECT` queries using - `JOIN` types.
 
-- Building conditional logic with -`CASE`.
+- Building conditional logic with - `CASE`.
 
 - Writing subqueries and combining results with set operations.
 
