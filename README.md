@@ -94,3 +94,16 @@ SQL-Employees-Data-Project/
 
 - `SQL final project.sql` — a final project file that ties together queries and tasks from the other scripts.
 (These file names and their presence are taken from the repo file list.) `GitHub`
+
+---
+<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+
+1. Clone the repository
+```bash
+git clone https://github.com/yashkdm987/SQL-Employees-Data-Analysis-Project.git
+```
+2. Open your SQL client (MySQL Workbench, pgAdmin, DBeaver, Azure Data Studio, SQLite CLI, etc.).
+
+3. Run `employees Data.sql` first to create tables and load sample data.
+
+4. Run the other `.sql` files in a logical order (JOINs → advanced joins → subqueries & set ops → final project) to see queries execute and inspect results.
